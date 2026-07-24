@@ -1,6 +1,6 @@
 # Cisco Network Defense
 
-## Overview from cisco network defence
+## Overview 
 This repository contains my notes, labs, Packet Tracer exercises, and practical learning from the Cisco Networking Academy Network Defense course.
 
 ## Skills Learned from this
