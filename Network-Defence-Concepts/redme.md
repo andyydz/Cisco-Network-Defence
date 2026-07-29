@@ -11,6 +11,7 @@ The course focuses on the fundamental concepts of network security, defensive st
 ##  Objectives
 
 
+
 - Understand network defense fundamentals
 - Learn Defense in Depth principles
 - Identify assets, threats, and vulnerabilities
